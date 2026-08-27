@@ -122,4 +122,4 @@ width="540">
 
 - 📬 Gmail: juanazwa009@gmail.com
 
-- 💬 Linkedln:
+- 💬 Linkedln:.
